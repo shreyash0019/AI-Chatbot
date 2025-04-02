@@ -21,7 +21,7 @@ Follow these steps to set up and run the chatbot:
    After installing the required libraries, you can run the chatbot by executing the following command in your terminal:
 
    ```bash
-   python bash.py
+   python main.py
    ```
 
 3. **Usage**:
