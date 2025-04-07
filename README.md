@@ -37,8 +37,7 @@ Follow these steps to set up and run the chatbot:
 - If you encounter issues with internet connectivity, please ensure you have a stable internet connection for the installation process.
 - To exit the program, simply close the terminal or press `Ctrl+C`.
 
-## License
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
 
 
 
