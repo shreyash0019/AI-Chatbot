@@ -32,3 +32,4 @@ kern.respond('load aiml b')
 
 while True:
     print(kern.respond(input('Type your Message >> ')))
+
